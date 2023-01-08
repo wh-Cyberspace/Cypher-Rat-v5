@@ -32,8 +32,6 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 -No VNC
 
--THIS RAT is FREE - NOT FOR SELL
-
 -Warning this version clients will only work with this version
 
 --------------
@@ -101,8 +99,6 @@ Images :
 #Cypher_rat_v3
 
 #Cypher_rat_v5
-
-#cypher_Rat_by_evlf
 
 cypher rat v3
 
